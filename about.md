@@ -2,13 +2,16 @@
 layout: page
 permalink: /about/
 title: About me
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+tags: [Jekyll, about, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 <!-- image:
   feature: intro-bg.jpg
   credit: Wilson Sumanang
   creditlink: http://saruberoz.github.io -->
 ---
+
+> "I have never in my life learned anything from any man who agreed with me."  -  Dudley Field Malon
+
 
 I am a technology enthusiast, life-long learner, listener, hardcore coder and also GAMER.
 I love trying new things and currently working with these stack at the moment
