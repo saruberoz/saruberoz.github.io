@@ -113,3 +113,6 @@ Other Guide that I find useful for doing unit-test using mock
 
 - [Introduction to mocking](http://www.toptal.com/python/an-introduction-to-mocking-in-python#.)
 - [More mocking article](http://www.drdobbs.com/testing/using-mocks-in-python/240168251?pgno=1)
+
+
+What do you guys think? If you found any mistake feel free to comment below :)
