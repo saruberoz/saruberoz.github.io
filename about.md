@@ -23,7 +23,7 @@ I love trying new things and currently working with these stack at the moment
 - [Heroku](https://www.heroku.com/)
 
 
-I'm a fan of structured and simplistic design and code. Currently interested in learning financial market and machine learning algorithm.
+I'm a fan of structured and simplistic design and code.
 
 I got my Bs, CS. from [Purdue University](http://www.purdue.edu/)
 
