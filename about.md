@@ -7,7 +7,7 @@ modified: 2013-09-13
 <!-- image:
   feature: intro-bg.jpg
   credit: Wilson Sumanang
-  creditlink: http://saruberoz.github.io -->
+  creditlink: https://saruberoz.github.io -->
 ---
 
 > "I have never in my life learned anything from any man who agreed with me."  -  Dudley Field Malon
@@ -17,18 +17,17 @@ I am a technology enthusiast, life-long learner, listener, hardcore coder and al
 I love trying new things and currently working with these stack at the moment
 
 - [Python](https://www.python.org/)
-- [Go](http://golang.org/)
-- [Flask](http://flask.pocoo.org/)
-- [Selenium](http://docs.seleniumhq.org/)
-- [Heroku](https://www.heroku.com/)
+- [Go](https://go.dev/)
+- [Flask](https://flask.palletsprojects.com/)
+- [Selenium](https://www.selenium.dev/)
 
 
 I'm a fan of structured and simplistic design and code.
 
-I got my Bs, CS. from [Purdue University](http://www.purdue.edu/)
+I got my Bs, CS. from [Purdue University](https://www.purdue.edu/)
 
 
 <!-- This site is to share my knowledge and wisdom to the best of my abilities.[^1]
 
 
-[^1]: Example: *http://saruberoz.github.io* -->
+[^1]: Example: *https://saruberoz.github.io* -->

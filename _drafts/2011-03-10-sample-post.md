@@ -8,7 +8,7 @@ tags: [sample post]
 image:
   feature: so-simple-sample-image-1.jpg
   credit: Michael Rose
-  creditlink: http://mademistakes.com
+  creditlink: https://mademistakes.com
 comments: true
 share: true
 ---
