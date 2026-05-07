@@ -1,5 +1,5 @@
-title:            saruberoz' site
-description:      Life of a programmer
+title:            WS' site
+description:      An engineer turned entrepreneur.
 logo:             site-logo.png
 disqus_shortname: saruberoz
 search:           true
@@ -11,7 +11,7 @@ url:              http://saruberoz.github.io
 owner:
   name:           Wilson Sumanang
   avatar:         bio-photo.jpg
-  email:          wilson.sumanang@yahoo.com
+  email:          wsumanang@proton.me
   # Social networking links used in footer. Update and remove as you like.
   twitter:        saruberoz
   facebook:       wilson.sumanang
@@ -44,7 +44,7 @@ links:
   #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles
+timezone:    Indonesia/Jakarta
 future:      true
 pygments:    true
 #highlighter: pygments
