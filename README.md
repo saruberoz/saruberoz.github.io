@@ -26,4 +26,8 @@ To add new post
 1. Do `rake new_post`
 
 
+To list all post including draft
+1. Do `bundle exec jekyll serve --drafts`
+
+
 This site is powered by [Jekyll](https://jekyllrb.com/) and using [So Simple Theme](https://github.com/mmistakes/so-simple-theme)

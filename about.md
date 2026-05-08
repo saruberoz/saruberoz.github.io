@@ -20,6 +20,8 @@ I love trying new things and currently working with these stack at the moment
 - [Go](https://go.dev/)
 - [Flask](https://flask.palletsprojects.com/)
 - [Selenium](https://www.selenium.dev/)
+- [RxJava](https://github.com/reactivex/rxjava)
+
 
 
 I'm a fan of structured and simplistic design and code.
